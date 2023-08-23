@@ -1,7 +1,7 @@
 ## Paweł Syska
 
 Self-taught programmer interested in compiler architecture, game development, writing high performance low level code, UI and creating beautiful websites / webapps.
-I also enjoy teaching modern programming practices to others.
+I also enjoy teaching modern programming practices.
 
 You can reach me on [CppLangNet discord](https://discord.gg/NvBNvpgUHZ).
 
